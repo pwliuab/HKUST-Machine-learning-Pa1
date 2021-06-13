@@ -1,4 +1,6 @@
 # Machine-learning-Pa1
-## This is machine learning pa1, using linear regression and logistic regression
-### You may use jupyter notebook or Google colab to open it.
-### follow the instruction inside the notebook.
+> **Environment: Colab or jupyter note book.**
+>
+>**Technique: linear regression and logistic regression**
+- download jupyter note book https://jupyter.org/ or go to google colab https://research.google.com/colaboratory/
+- Open the notebook file, run the cells in sequential order.
